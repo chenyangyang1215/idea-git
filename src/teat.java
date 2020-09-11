@@ -5,5 +5,8 @@ public class teat {
         System.out.println("hello world");
 System.out.println("hello world");
         System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
     }
 }
